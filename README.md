@@ -2,7 +2,7 @@
 - 👀 I’m interested in working as groups  
 - 🌱 I’m currently learning Electronics and Telecommunication at the University of Moratuwa.  
 - 📫 How to reach me: dhawalabiz2002@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/Dhawala_Rajakaruna](www.linkedin.com/in/dhawala-rajakaruna-216b80293)  
+- 💼 LinkedIn: [linkedin.com/in/Dhawala_Rajakaruna](https://www.linkedin.com/in/dhawala-rajakaruna-216b80293/)  
 
 
 <!---
