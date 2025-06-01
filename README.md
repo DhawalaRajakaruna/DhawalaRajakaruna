@@ -1,11 +1,93 @@
-- 👋 Hi, I’m Dhawala Sanka Rajakaruna  
-- 👀 I’m interested in working as groups  
-- 🌱 I’m currently learning Electronics and Telecommunication at the University of Moratuwa.  
-- 📫 How to reach me: dhawalabiz2002@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/Dhawala_Rajakaruna](https://www.linkedin.com/in/dhawala-rajakaruna-216b80293/)  
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Dhawala%20Rajakaruna&fontSize=50&fontColor=ffffff&animation=fadeIn)
+
+## Hi there! 👋 Welcome to my profile
+
+**Electronics and Telecommunication Engineering Undergraduate**  
+University of Moratuwa 🎓 🇱🇰
+
+📧 dhawalabiz@gmail.com | 💼 [LinkedIn](https://www.linkedin.com/posts/dhawala-rajakaruna-216b80293_autonova-robogames2024-yolov8-activity-7315925838380601344-F-Jj)
+
+## 🚀 Projects and Experience
+
+### IESL Robogames 2024 Champions
+**Team AutoNova** - All-island robotics competition winner
+- Webots simulation with computer vision-based navigation
+- Controlled Kobuki differential drive robot with Raspberry Pi 5
+- YOLOv8 model for autonomous target identification and navigation
+
+[Competition Code](https://github.com/DhawalaRajakaruna/Robogames-Final) | [LinkedIn](https://www.linkedin.com/posts/dhawala-rajakaruna-216b80293_autonova-robogames2024-yolov8-activity-7315925838380601344-F-Jj)
+
+### 🔧 Bin Picking Robot
+- X-Y robot with computer vision for automated L-bend collection
+- Custom PCB with ATmega32U4 and NVIDIA Jetson Nano
+
+[GitHub](https://github.com/DhawalaRajakaruna/EDR-Project/tree/PCB-desiginig)
+
+### 📷 IEEE SPS Video Processing Cup
+- International competition for drone vs bird classification
+- RGB and IR image datasets with payload detection
+
+[GitHub](https://github.com/DhawalaRajakaruna/VIP-Cup-2025)
+
+### 🤖 Perabots 2025
+- Vision-based autonomous navigation using Webots
+- PID control for obstacle avoidance
+
+[GitHub](https://github.com/ShehanPer/PeraBots_2025/tree/Dhawala/Perabots/Simulation_round)
+
+### 🎯 Competition Robot
+- Multifunctional autonomous robot with line following and barcode reading
+- IR and TOF sensors with custom control algorithms
+
+[GitHub](https://github.com/DhawalaRajakaruna/RobotCompetition)
+
+### 🌡️ Smart Fan Controller
+- Automatic speed control based on temperature and occupancy
+- Custom PCB with ATmega328PU and DHT11 sensor
+
+[GitHub](https://github.com/DhawalaRajakaruna/Fan-Speed-controller-PCB-Design-using-Altium)
+
+### 🎵 Analog Theremin
+- Touchless musical instrument with hand proximity control
+- Full analog circuit using NE5532 op-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Dhawala%20Rajakaruna&fontSize=50&fontColor=ffffff&animation=fadeIn)
+
+### 💊 IoT Medibox
+- Smart medicine delivery with automated notifications
+- ESP32 with Node-RED dashboard and MQTT communication
+
+[GitHub](https://github.com/DhawalaRajakaruna/Medibox)
+
+### 📡 UART Protocol Implementation
+- Custom communication protocol built from scratch in Verilog
+- Signal visualization using GTKWave
+
+[GitHub](https://github.com/DhawalaRajakaruna/verilog-Programming)
+
+### 📊 Student Management System
+- CLI-based grade management system in Java
+- OOP principles with ranking and data updates
+
+[GitHub](https://github.com/DhawalaRajakaruna/STUDENT-MARKS-MANAGEMENT-SYSTEM.)
+
+## 🛠️ Skills
+
+**Programming**: C++, Python, Java, Verilog  
+**Hardware**: Arduino, ESP32, Raspberry Pi, NVIDIA Jetson Nano  
+**Design**: SolidWorks, Altium Designer, LTspice  
+**Tech**: Computer Vision, ML, IoT, Robotics
 
 
-<!---
-DhawalaRajakaruna/DhawalaRajakaruna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DhawalaRajakaruna&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DhawalaRajakaruna&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DhawalaRajakaruna&theme=radical)
+
+## 📫 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/posts/dhawala-rajakaruna-216b80293_autonova-robogames2024-yolov8-activity-7315925838380601344-F-Jj) [![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/DhawalaRajakaruna)
