@@ -48,8 +48,11 @@ University of Moratuwa 🎓 🇱🇰
 [GitHub](https://github.com/DhawalaRajakaruna/Fan-Speed-controller-PCB-Design-using-Altium)
 
 ### 🎵 Analog Theremin
+
 - Touchless musical instrument with hand proximity control
-- Full analog circuit using NE5532 op-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Dhawala%20Rajakaruna&fontSize=50&fontColor=ffffff&animation=fadeIn)
+- Full analog circuit using NE5532 op-amps
+
+[GitHub](https://github.com/DhawalaRajakaruna/Theremin-Files)
 
 ### 💊 IoT Medibox
 - Smart medicine delivery with automated notifications
