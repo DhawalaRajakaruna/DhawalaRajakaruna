@@ -93,4 +93,4 @@ University of Moratuwa 🎓 🇱🇰
 
 ## 📫 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](www.linkedin.com/in/dhawala-rajakaruna-216b80293) [![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/DhawalaRajakaruna)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/dhawala-rajakaruna-216b80293) [![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/DhawalaSankaRajakaruna)
