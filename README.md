@@ -35,13 +35,13 @@ University of Moratuwa 🎓 🇱🇰
 
 [GitHub](https://github.com/ShehanPer/PeraBots_2025/tree/Dhawala/Perabots/Simulation_round)
 
-### 🎯 Competition Robot
-- Multifunctional autonomous robot with line following and barcode reading
+### 🎯 Robot Competition
+- Multifunctional autonomous robot with line following, barcode reading, Box arranging and doted line following.
 - IR and TOF sensors with custom control algorithms
 
 [GitHub](https://github.com/DhawalaRajakaruna/RobotCompetition)
 
-### 🌡️ Smart Fan Controller
+### 🌡️ Automatic Fan Controller
 - Automatic speed control based on temperature and occupancy
 - Custom PCB with ATmega328PU and DHT11 sensor
 
