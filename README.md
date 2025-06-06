@@ -5,7 +5,7 @@
 **Electronics and Telecommunication Engineering Undergraduate**  
 University of Moratuwa 🎓 🇱🇰
 
-📧 dhawalabiz@gmail.com | 💼 [LinkedIn](https://www.linkedin.com/posts/dhawala-rajakaruna-216b80293_autonova-robogames2024-yolov8-activity-7315925838380601344-F-Jj)
+📧 dhawalabiz@gmail.com | 💼 [LinkedIn](https://www.linkedin.com/in/dhawala-rajakaruna-216b80293?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BblLS1xRYS%2FeBx3a6ImuHjg%3D%3D)
 
 ## 🚀 Projects and Experience
 
@@ -93,4 +93,4 @@ University of Moratuwa 🎓 🇱🇰
 
 ## 📫 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/dhawala-rajakaruna-216b80293) [![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/DhawalaSankaRajakaruna)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/dhawala-rajakaruna-216b80293?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BblLS1xRYS%2FeBx3a6ImuHjg%3D%3D) [![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/DhawalaSankaRajakaruna)
