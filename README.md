@@ -89,7 +89,7 @@ University of Moratuwa 🎓 🇱🇰
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DhawalaRajakaruna&layout=compact&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DhawalaRajakaruna&theme=radical)
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=DhawalaRajakaruna&theme=radical)](https://git.io/streak-stats)
 
 ## 📫 Connect
 
