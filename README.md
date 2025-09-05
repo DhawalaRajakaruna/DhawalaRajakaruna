@@ -5,7 +5,7 @@
 **Electronics and Telecommunication Engineering Undergraduate**  
 University of Moratuwa 🎓 🇱🇰
 
-📧 dhawalabiz@gmail.com | 💼 [LinkedIn](https://www.linkedin.com/in/dhawala-rajakaruna-216b80293?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BblLS1xRYS%2FeBx3a6ImuHjg%3D%3D)
+📧 dhawalabiz2002@gmail.com | 💼 [LinkedIn](https://www.linkedin.com/in/dhawala-rajakaruna-216b80293?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BblLS1xRYS%2FeBx3a6ImuHjg%3D%3D)
 
 ## 🚀 Projects and Experience
 
